@@ -21,7 +21,12 @@ func (customer *Customer) Init(name string) {
 func String(customer Customer) string {
 	return customer.name
 }
-``` 
+```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
 
 Added markdown headers
+
 
